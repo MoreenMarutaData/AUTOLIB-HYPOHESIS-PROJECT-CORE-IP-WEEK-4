@@ -1,4 +1,4 @@
-# AUTOLIB-HYPOHESIS-PROJECT-CORE-IP-WEEK-4
+# AUTOLIB-HYPOTHESIS-PROJECT-CORE-IP-WEEK-4
 This is an Hypothesis Test conducted to check if the mean of Blue Cars taken on the Weekends is equal to the mean of Bluecar Cars returned during the weekends.
 
 Hypothesis
